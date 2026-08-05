@@ -4,7 +4,7 @@ How to Fix Google Chrome Sync Errors
 
 
 
-============
+
 
 Google Chrome Sync allows you to keep your bookmarks, passwords, browsing history, extensions, settings, and open tabs synchronized across all devices using the same Google account.
 
